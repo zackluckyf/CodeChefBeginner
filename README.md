@@ -1,2 +1,3 @@
 # testing123
-How to github 101
+GitHub 101 starting with the basics
+
