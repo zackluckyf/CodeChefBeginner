@@ -1,3 +1,3 @@
-# testing123
-GitHub 101 starting with the basics
+# CodeChefBeginner
+GitHub 101 starting with the basics, and doing code chef beginner
 
